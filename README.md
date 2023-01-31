@@ -51,10 +51,12 @@ Build Docker Image
 
 ```
 docker build -t <image_name>:<tagname> . 
+```
 
 > Note : Image name should always be in caps off 
 
 to list docker images 
+
 ```
 docker images
 ```
